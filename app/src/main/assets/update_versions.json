@@ -1,0 +1,41 @@
+{
+  "googlePlayMarket": [
+    {
+      "firstSupportedSdkVersion": "19",
+      "lastSupportedSdkVersion": "20",
+      "latestAppVersion": "5.9.0"
+    },
+    {
+      "firstSupportedSdkVersion": "21",
+      "lastSupportedSdkVersion": "25",
+      "latestAppVersion": "9.9.0"
+    },
+    {
+      "firstSupportedSdkVersion": "26",
+      "lastSupportedSdkVersion": null,
+      "latestAppVersion": "11.5.0"
+    }
+  ],
+  "huaweiAppGallery": [
+    {
+      "firstSupportedSdkVersion": "26",
+      "lastSupportedSdkVersion": null,
+      "latestAppVersion": "11.0.0"
+    }
+  ],
+  "xiaomiMiStore": [
+    {
+      "firstSupportedSdkVersion": "26",
+      "lastSupportedSdkVersion": null,
+      "latestAppVersion": "11.1.0"
+    }
+  ],
+  "samsungStore": [],
+  "ruStore": [
+    {
+      "firstSupportedSdkVersion": "26",
+      "lastSupportedSdkVersion": null,
+      "latestAppVersion": "11.3.0"
+    }
+  ]
+}
